@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{8ECE15F1-B26D-4A0B-8427-A0DF2AC1F6D7}|Default">
+  <MonoDevelop.Ide.ItemProperties.GradeBook PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GradeBook/Program.cs">
+    <Files>
+      <File FileName="GradeBook/Program.cs" Line="1" Column="14" />
+      <File FileName="GradeBook/Book.cs" Line="12" Column="41" />
+      <File FileName="GradeBook/NamedObject.cs" Line="7" Column="25" />
+      <File FileName="../../test/GradeBook.Tests/TypeTests.cs" Line="66" Column="56" />
+      <File FileName="GradeBook/BookBase.cs" Line="17" Column="2" />
+      <File FileName="GradeBook/IBook.cs" Line="6" Column="9" />
+      <File FileName="GradeBook/DiskBook.cs" Line="27" Column="46" />
+      <File FileName="GradeBook/Statistics.cs" Line="28" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GradeBook" expanded="True">
+            <Node name="GradeBook" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="GradeBook.Tests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GradeBook.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
